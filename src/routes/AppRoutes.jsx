@@ -2,17 +2,17 @@ import React from "react";
 import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router";
 import AuthLayout from "../layout/AuthLayout";
-import Login from "../pages/Login";
-import Register from "../pages/Register";
+import Login from "../Pages/Login";
+import Register from "../Pages/Register";
 import MainLayout from "../layout/MainLayout";
-import Home from "../pages/Home";
+import Home from "../Pages/Home";
 import ProtectedRoute from "./ProtectedRoute";
 import PublicRoute from "./PublicRoute";
 import ProductPage from "../pages/ProductPage";
-import About from "../pages/About";
-import Cart from "../pages/Cart";
-import AddProduct from "../pages/AddProduct";
-import EditProduct from "../pages/EditProduct";
+import About from "../Pages/About";
+import Cart from "../Pages/Cart";
+import AddProduct from "../Pages/AddProduct";
+import EditProduct from "../Pages/EditProduct";
 
 const AppRoutes = () => {
   let router = createBrowserRouter([
