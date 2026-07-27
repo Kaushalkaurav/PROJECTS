@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import AppRoutes from "./routes/AppRoutes.jsx";
 import {ToastContainer} from "react-toastify";
 import { Provider } from "react-redux";
-import {Store} from "./app/Store.js"
+import { store } from "./app/Store.js";
 
 
 
