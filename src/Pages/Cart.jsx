@@ -1,5 +1,5 @@
 import React from "react";
-import CartCard from "../components/CartCard";
+import CartCard from "../Components/CartCard";
 import { useSelector } from "react-redux";
 
 const Cart = () => {

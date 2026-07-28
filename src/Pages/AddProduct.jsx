@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router";
 
-import ProductForm from "../components/ProductForm";
+import ProductForm from "../Components/ProductForm";
 
 import { addProduct } from "../features/product/productSlice";
 

@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate, useParams } from "react-router";
 import { useDispatch, useSelector } from "react-redux";
 
-import ProductForm from "../components/ProductForm";
+import ProductForm from "../Components/ProductForm";
 
 import { updateProduct } from "../features/product/productSlice";
 
