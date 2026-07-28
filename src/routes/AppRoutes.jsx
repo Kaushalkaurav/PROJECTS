@@ -8,7 +8,7 @@ import MainLayout from "../layout/MainLayout";
 import Home from "../Pages/Home";
 import ProtectedRoute from "./ProtectedRoute";
 import PublicRoute from "./PublicRoute";
-import ProductPage from "../pages/ProductPage";
+import ProductPage from "../Pages/ProductPage";
 import About from "../Pages/About";
 import Cart from "../Pages/Cart";
 import AddProduct from "../Pages/AddProduct";
