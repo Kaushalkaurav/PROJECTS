@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import ProductCard from "../components/ProductCard";
+import ProductCard from "../Components/ProductCard";
 import { useNavigate } from "react-router";
 import { Search, Plus } from "lucide-react";
 import { axiosInstance } from "../config/axiosinstance";
