@@ -7,7 +7,7 @@ const Footer = () => {
         <h1 className="text-2xl text-lime-400">SkyMart</h1>
         <p className="text-gray-500">
           &copy; 2026 SkyMart &bull; Built with React &bull; By{" "}
-          <span className="font-semibold">Akshat Agrawal</span>
+          <span className="font-semibold">kaushal kaurav </span>
         </p>
       </div>
     </div>
