@@ -1,6 +1,6 @@
 import React from 'react'
 import { Outlet } from 'react-router';
-import AuthPage from '../components/AuthPage';
+import AuthPage from '../Components/AuthPage';
 
 const AuthLayout = () => {
   return (
